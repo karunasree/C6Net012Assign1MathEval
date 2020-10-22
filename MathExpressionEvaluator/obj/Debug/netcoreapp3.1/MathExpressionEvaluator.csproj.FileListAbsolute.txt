@@ -1,0 +1,13 @@
+C:\Karunasree\MathEval\MathExpressionEvaluator\bin\Debug\netcoreapp3.1\MathExpressionEvaluator.exe
+C:\Karunasree\MathEval\MathExpressionEvaluator\bin\Debug\netcoreapp3.1\MathExpressionEvaluator.deps.json
+C:\Karunasree\MathEval\MathExpressionEvaluator\bin\Debug\netcoreapp3.1\MathExpressionEvaluator.runtimeconfig.json
+C:\Karunasree\MathEval\MathExpressionEvaluator\bin\Debug\netcoreapp3.1\MathExpressionEvaluator.runtimeconfig.dev.json
+C:\Karunasree\MathEval\MathExpressionEvaluator\bin\Debug\netcoreapp3.1\MathExpressionEvaluator.dll
+C:\Karunasree\MathEval\MathExpressionEvaluator\bin\Debug\netcoreapp3.1\MathExpressionEvaluator.pdb
+C:\Karunasree\MathEval\MathExpressionEvaluator\obj\Debug\netcoreapp3.1\MathExpressionEvaluator.csprojAssemblyReference.cache
+C:\Karunasree\MathEval\MathExpressionEvaluator\obj\Debug\netcoreapp3.1\MathExpressionEvaluator.AssemblyInfoInputs.cache
+C:\Karunasree\MathEval\MathExpressionEvaluator\obj\Debug\netcoreapp3.1\MathExpressionEvaluator.AssemblyInfo.cs
+C:\Karunasree\MathEval\MathExpressionEvaluator\obj\Debug\netcoreapp3.1\MathExpressionEvaluator.csproj.CoreCompileInputs.cache
+C:\Karunasree\MathEval\MathExpressionEvaluator\obj\Debug\netcoreapp3.1\MathExpressionEvaluator.dll
+C:\Karunasree\MathEval\MathExpressionEvaluator\obj\Debug\netcoreapp3.1\MathExpressionEvaluator.pdb
+C:\Karunasree\MathEval\MathExpressionEvaluator\obj\Debug\netcoreapp3.1\MathExpressionEvaluator.genruntimeconfig.cache
